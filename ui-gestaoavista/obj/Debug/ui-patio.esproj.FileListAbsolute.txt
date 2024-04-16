@@ -1,0 +1,2 @@
+C:\Users\csp0812\Desktop\ReducaoPatio\UI-Patio\obj\Debug\ui-patio.esproj.SuggestedBindingRedirects.cache
+C:\Users\csp0812\Desktop\ReducaoPatio\UI-Patio\obj\Debug\ui-patio.esproj.CoreCompileInputs.cache

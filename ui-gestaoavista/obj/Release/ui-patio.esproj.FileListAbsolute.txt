@@ -1,0 +1,2 @@
+C:\Projetos\Reducao-PATIO\Reducao-PATIO\UI-Patio\obj\Release\ui-patio.esproj.SuggestedBindingRedirects.cache
+C:\Projetos\Reducao-PATIO\Reducao-PATIO\UI-Patio\obj\Release\ui-patio.esproj.CoreCompileInputs.cache

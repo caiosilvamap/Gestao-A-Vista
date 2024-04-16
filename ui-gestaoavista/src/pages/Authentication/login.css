@@ -1,0 +1,25 @@
+.alert-danger {
+    background-color: #f87171;
+    color: #fff;
+   
+}
+
+.bg-overlay {
+    position: relative;
+}
+
+.bg-overlay::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Ajuste a opacidade aqui (0.5 é 50%) */
+    z-index: 1;
+}
+
+.bg-image {
+    position: relative;
+    z-index: 0;
+}
